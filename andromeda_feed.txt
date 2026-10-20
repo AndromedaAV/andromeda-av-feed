@@ -1,3 +1,4 @@
 # Andromeda - lista oficial de assinaturas
-# version: 1
-275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f|EICAR-Test-File
+# version: 2
+275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f|EICAR-Test-File 
+f91a799a01ebac97c8995f50381b5be0d43ca7eb0c6a6c6bc07603c5a922d1fa|Teste-Feed-2
